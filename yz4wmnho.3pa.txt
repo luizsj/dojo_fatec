@@ -1,0 +1,50 @@
+versao 1.0 executando
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   Dojo_Fatec.cfg
+#	new file:   Dojo_Fatec.dof
+#	new file:   Dojo_Fatec.dpr
+#	new file:   Dojo_Fatec.dsk
+#	new file:   Dojo_Fatec.exe
+#	new file:   Dojo_Fatec.res
+#	new file:   dojo_turmas.dcu
+#	new file:   dojo_turmas.pas
+#	new file:   form_principal.dfm
+#	new file:   form_principal.pas
+#	new file:   frmPrincipal_Unit.dcu
+#	new file:   frmPrincipal_Unit.ddp
+#	new file:   frmPrincipal_Unit.dfm
+#	new file:   frmPrincipal_Unit.pas
+#	new file:   imagem.JPG
+#	new file:   semfoto.JPG
+#	new file:   turmas/5ADSNOT.txt
+#	new file:   turmas/5adsnot_fotos/111009.jpg
+#	new file:   turmas/5adsnot_fotos/111013.jpg
+#	new file:   turmas/5adsnot_fotos/111015.jpg
+#	new file:   turmas/5adsnot_fotos/111033.jpg
+#	new file:   turmas/5adsnot_fotos/113003.jpg
+#	new file:   turmas/5adsnot_fotos/113008.jpg
+#	new file:   turmas/5adsnot_fotos/113014.jpg
+#	new file:   turmas/5adsnot_fotos/113018.jpg
+#	new file:   turmas/5adsnot_fotos/113019.jpg
+#	new file:   turmas/5adsnot_fotos/113020.jpg
+#	new file:   turmas/5adsnot_fotos/113027.JPG
+#	new file:   turmas/5adsnot_fotos/113028.jpg
+#	new file:   turmas/5adsnot_fotos/113030.jpg
+#	new file:   turmas/5adsnot_fotos/113032.jpg
+#	new file:   turmas/5adsnot_fotos/113033.jpg
+#	new file:   turmas/5adsnot_fotos/113034.jpg
+#	new file:   turmas/5adsnot_fotos/113037.jpg
+#	new file:   turmas/5adsnot_fotos/113041.jpg
+#	new file:   turmas/5adsnot_fotos/julio.jpg
+#
+
